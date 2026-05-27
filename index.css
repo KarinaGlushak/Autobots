@@ -1,0 +1,20 @@
+h1 {
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(120, 86, 184);
+    margin-bottom: 50px;
+}
+
+.output {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(9, 11, 146);
+    font-style: italic;
+}
+a {
+    color: rgb(8, 24, 248);
+}
